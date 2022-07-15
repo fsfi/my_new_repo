@@ -2,9 +2,9 @@
 Dies ist eine kurze Projektbeschreibung.
 
 ## Inhaltsverzeichnis
-* Verwendete Technologien(#verwendete-technologien)
-* Anforderungen(#anforderungen)
-* Anwendungsbeispiel(#anwendungsbeispiel)
+* [Verwendete Technologien] (#verwendete-technologien)
+* [Anforderungen] (#anforderungen)
+* [Anwendungsbeispiel] (#anwendungsbeispiel)
 
 ## Verwendete Technologien
 Hier stehen die verwendeten Technologien
