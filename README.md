@@ -1,6 +1,6 @@
 # Projekttitel
 Dies ist eine kurze Projektbeschreibung.
-Dies ist ein Test
+Dies ist ein Test. Dies ist ein weiterer Test.
 ## Inhaltsverzeichnis
 * [Verwendete Technologien](#verwendete-technologien)
 * [Anforderungen](#anforderungen)
